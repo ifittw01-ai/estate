@@ -10,7 +10,7 @@
 // ========================================
 // 配置設定
 // ========================================
-const SPREADSHEET_ID = '1tvKaa07m-lxqyF4ZWgpOsC2ESiXBvNeN5IbA013lEf0';  // ⚠️ 請修改為你的 Google Sheet ID
+const SPREADSHEET_ID = '1m-9-CkasnFGwWOB3iEeNtQ7RkxqtQiiIId8CZ2WZZUs';  // ⚠️ 請修改為你的 Google Sheet ID
 const SHEET_NAME_PROMOTERS = '推廣人員';  // 推廣人員工作表
 const SHEET_NAME_REGIONS = '評估地點';    // 評估地點工作表
 const DEFAULT_EMAIL = 'jordantsai777@gmail.com';
@@ -357,7 +357,7 @@ ${customerName}，
 
 我們期待與您見面！🚀
 ---
-培訓法拍接班人 團隊
+未來房市趨勢專家培訓計畫 團隊
       `.trim();
       
       try {
